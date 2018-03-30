@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   built in Ubuntu bash
 baseurl: "" # the subpath of your site, e.g. /mysite
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: nonono
+github_username:  clairbarrass
 
 # Build settings
 markdown: kramdown
